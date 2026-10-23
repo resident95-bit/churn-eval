@@ -1,6 +1,6 @@
-# churn-eval-demo
+# churn-eval
 
-Small demo project that trains a random forest on a synthetic
+A churn classification project that trains a random forest on a synthetic
 subscriber-churn dataset and prints evaluation metrics.
 
 Run locally:
